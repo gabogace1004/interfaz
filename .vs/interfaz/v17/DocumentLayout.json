@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|c:\\users\\reyba\\onedrive\\documentos\\interfaz\\interfaz\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|c:\\users\\reyba\\onedrive\\documentos\\interfaz\\interfaz\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\sistemacheys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\sistemacheys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|c:\\users\\reyba\\onedrive\\documentos\\interfaz\\interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|c:\\users\\reyba\\onedrive\\documentos\\interfaz\\interfaz\\sistemacheys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\sistemacheys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|interfaz||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\permisosalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\permisosalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\solicitartectnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|solutionrelative:interfaz\\solicitartectnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF9B-684D-4171-A81E-00ABD339ADC0}|interfaz\\interfaz.csproj|c:\\users\\reyba\\onedrive\\documentos\\interfaz\\interfaz\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaCHEYS.cs",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SistemaCHEYS.cs",
+              "RelativeDocumentMoniker": "interfaz\\SistemaCHEYS.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SistemaCHEYS.cs",
+              "RelativeToolTip": "interfaz\\SistemaCHEYS.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAjwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:44:21.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "interfaz",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\interfaz.csproj",
+              "RelativeDocumentMoniker": "interfaz\\interfaz.csproj",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\interfaz.csproj",
+              "RelativeToolTip": "interfaz\\interfaz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-03T22:10:18.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantallaCarga.cs",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PantallaCarga.cs",
+              "RelativeDocumentMoniker": "interfaz\\PantallaCarga.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PantallaCarga.cs",
+              "RelativeToolTip": "interfaz\\PantallaCarga.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:32:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaCarga.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PantallaCarga.cs",
+              "RelativeDocumentMoniker": "interfaz\\PantallaCarga.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PantallaCarga.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfaz\\PantallaCarga.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:28:41.786Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\Program.cs",
+              "RelativeDocumentMoniker": "interfaz\\Program.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\Program.cs",
+              "RelativeToolTip": "interfaz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:21:54.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SistemaCHEYS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SistemaCHEYS.cs",
+              "RelativeDocumentMoniker": "interfaz\\SistemaCHEYS.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SistemaCHEYS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfaz\\SistemaCHEYS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:46:51.535Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PermisoSalir.cs",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PermisoSalir.cs",
+              "RelativeDocumentMoniker": "interfaz\\PermisoSalir.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\PermisoSalir.cs",
+              "RelativeToolTip": "interfaz\\PermisoSalir.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:21:16.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\RegistroUsuarios.cs",
+              "RelativeDocumentMoniker": "interfaz\\RegistroUsuarios.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\RegistroUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfaz\\RegistroUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:43:52.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\RegistroUsuarios.cs",
+              "RelativeDocumentMoniker": "interfaz\\RegistroUsuarios.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\RegistroUsuarios.cs",
+              "RelativeToolTip": "interfaz\\RegistroUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:25:54.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolicitarTectnico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SolicitarTectnico.cs",
+              "RelativeDocumentMoniker": "interfaz\\SolicitarTectnico.cs",
+              "ToolTip": "C:\\Users\\reyba\\OneDrive\\Documentos\\interfaz\\interfaz\\SolicitarTectnico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfaz\\SolicitarTectnico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:48:32.052Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
